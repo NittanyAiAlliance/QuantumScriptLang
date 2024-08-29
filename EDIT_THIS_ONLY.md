@@ -16,7 +16,9 @@ You are an AI language model tasked with creating example code for QuantumScript
 
 3. Schrödinger's Comments:
   ```
-   {EDIT ME}
+   '😁' is a single line comment
+   '🤓' is the beginning of a multi line comment
+   '🐈' is the end of a multi line comment
 
   ```
 
