@@ -27,7 +27,11 @@ You are an AI language model tasked with creating example code for QuantumScript
 
 5. Code Review Annotation System:
 ```
-   {EDIT ME}
+   {QUANTUM_CODE_REVIEW [
+"what were you thinking?!?!",
+"Use of emojis in variable declarations may cause syntax errors on 32 bit systems",
+"Line 45 has bugs, clean them pls."
+]
 ```
 
 6. Stack Overflow Integrated Functions:
